@@ -1,0 +1,48 @@
+.nav-bar {
+  background: gray;
+  text-align: center; 
+  border: 1px solid red;
+}
+
+.nav-bar > a {
+  color: white; 
+  text-decoration: none;
+  border: 1px solid red; 
+}
+
+.motto {
+  background: greenyellow;
+  border: 1px solid red; 
+}
+
+.motto > h1 {
+  color: white; 
+  border: 1px solid red; 
+}
+
+.user-info {
+  background: orange;
+  border: 1px solid red; 
+}
+
+.user-info > p {
+  color: white; 
+  border: 1px solid red; 
+}
+
+.user-info > a {
+  color: white;
+  text-decoration: none; 
+  border: 1px solid red; 
+}
+
+.footer {
+  background: green;
+  border: 1px solid red; 
+}
+
+.footer > a {
+  color: white; 
+  border: 1px solid red; 
+}
+
